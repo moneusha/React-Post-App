@@ -1,0 +1,9 @@
+.image-size{
+    height: 150px;
+    width: 150px;
+    background-size: cover;
+}
+
+.new{
+    background-color: #288C18;
+}

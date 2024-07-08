@@ -1,0 +1,59 @@
+.post-list {
+    padding: 20px;
+  }
+  
+  .post-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .post-list li {
+    margin-bottom: 20px;
+  }
+  
+  .image-size {
+    width: 150px;
+    height: auto;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+
+  .post-list h1{
+    font-family: "Roboto";
+    font-size:40px;
+    color: #145D96;
+  }
+
+  .post-list h2{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #E132F4;
+  }
+
+  .post-list p{
+    font-family: "Roboto";
+    color: #8D0E1F;
+  }
+
+  .post-list button{
+    background-color: #F66A2F;
+    border: none;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-top: 10px;
+    color: white;
+    font-size: 15px;
+  }
+
+  .post-list button para{
+    background-color: #288C18;
+  }
+
+  .para{
+    background-color: #288C18;
+  }
+  

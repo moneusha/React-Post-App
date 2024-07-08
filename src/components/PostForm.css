@@ -1,0 +1,26 @@
+.post-form {
+    padding: 20px;
+  }
+  
+  .post-form div {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+    background-color: #288C18;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+  }
+
+  .post-form h1{
+    color: #E132F4;
+    font-family: "Roboto";
+  }
+
+  
